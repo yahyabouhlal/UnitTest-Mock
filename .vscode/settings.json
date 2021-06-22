@@ -3,6 +3,7 @@
         "ENTRYPOINT",
         "WORKDIR",
         "aspnet",
+        "icolors",
         "issuehunt",
         "liberapay",
         "otechie",
